@@ -13,6 +13,6 @@
     "@hapi/joi": "^15.1.1",
     "@ninja-labs/verify-pdf": "^0.2.1",
     "express": "^4.17.1",
-    "file-type": "^12.3.0"
+    "file-type": "^12.4.0"
   }
 }
